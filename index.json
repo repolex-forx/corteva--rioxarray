@@ -1,0 +1,11 @@
+{
+  "org": "corteva",
+  "repo": "rioxarray",
+  "versions": [
+    {
+      "commit": "3182e84bff998789f8bebcfc2cee7f3c821a4762",
+      "tag": "",
+      "parsed_at": "2026-10-19T11:37:11.780897+00:00"
+    }
+  ]
+}
