@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/corteva/rioxarray/commit/3182e84bff998789f8bebcfc2cee7f3c821a4762",
       "git:hexsha": "3182e84bff998789f8bebcfc2cee7f3c821a4762",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-19T11:37:11.780032+00:00"
     },
     {
       "@id": "https://repolex.ai/r/corteva/rioxarray/commit/83e321c0b3597cc484fb6445d055e4c0ca893f89",
